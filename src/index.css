@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.img{
+    background-image: url(./Assets//free-nature-images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.WIDTH{
+    width:1500px;
+}
+
+/* width */
+::-webkit-scrollbar{
+  width: 2px;
+}
+::-webkit-scrollbar-track {
+  background: #f9fafb;
+}
+
+/* handle */
+::-webkit-scrollbar-thumb{
+  background: #e5e7eb;
+  border-radius: 100vh;
+}
+
+
+

@@ -1,0 +1,23 @@
+/* width */
+::-webkit-scrollbar {
+  width: 2px;
+}
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+/* handle */
+::-webkit-scrollbar-thumb {
+  background: white;
+  border-radius: 100vh;
+}
+
+.li {
+  background-image: url("../Assets/photo-1503614472-8c93d56e92ce.avif");
+  background-position: center;
+}
+
+.WID {
+  width: 44%;
+}
+
