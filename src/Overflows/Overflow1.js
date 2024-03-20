@@ -54,6 +54,20 @@ function Overflow1() {
               className=" justify-center flex items-center"
             />
           </li>
+          <li className=" bg-gray-300 bg-opacity-40 w-40  justify-center flex items-center border h-60">
+            <img
+              src="photo-1503614472-8c93d56e92ce.avif"
+              alt=""
+              className=" justify-center flex items-center"
+            />
+          </li>{" "}
+          <li className=" bg-gray-300 bg-opacity-40 w-40  justify-center flex items-center border h-60">
+            <img
+              src="photo-1503614472-8c93d56e92ce.avif"
+              alt=""
+              className=" justify-center flex items-center"
+            />
+          </li>
         </ul>
       </div>
     </div>
